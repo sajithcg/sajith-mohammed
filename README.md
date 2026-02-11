@@ -1,5 +1,4 @@
-<h1 align="center">Sajith Mohammed V</h1>
-<h3 align="center">MERN Stack Developer | React · Node · MongoDB</h3>
+![Header](./assets/github-header-banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajithmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="sajithmohammed" /> </p>
 
