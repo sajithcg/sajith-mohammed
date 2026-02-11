@@ -1,7 +1,7 @@
 <h1 align="center">Sajith Mohammed V</h1>
 <h3 align="center">MERN Stack Developer | React · Node · MongoDB</h3>
 
-<a><img src="https://komarev.com/ghpvc/?username=sajithcg&label=Profile views&color=0e75b6&style=flat" alt="sajithcg" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajithmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="sajithmohammed" /> </p>
 
 - 🔭 I'm currently working on **I build clean, responsive, and scalable web applications using the MERN stack, with a strong focus on real-world use cases, maintainable code, and practical problem-solving.**
 
